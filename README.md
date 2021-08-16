@@ -9,4 +9,7 @@ IEXE Repositorio prueba
  
  Ejercicios de git
  
- https://ibb.co/jRhmq97
+
+![alt text](https://ibb.co/jRhmq97)
+
+![alt text](https://ibb.co/GW3Kj44)
